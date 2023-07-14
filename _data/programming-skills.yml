@@ -1,0 +1,11 @@
+- name: Python
+  percentage: 75
+  color: 
+
+- name: C++
+  percentage: 50
+  color: danger
+
+- name: Docker
+  percentage: 60
+  color: secondary

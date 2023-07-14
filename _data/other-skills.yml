@@ -1,0 +1,7 @@
+- name: Photo and graphics
+  percentage: 85
+  color: info
+
+- name: Video
+  percentage: 70
+  color: success
