@@ -1,5 +1,5 @@
 ---
-name: "I don't know what to do" button
+name: \"I don't know what to do\" button
 tools: [standard]
 image: ../images/button.png
 description: 
