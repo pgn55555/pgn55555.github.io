@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I rejoice every day, because life is beautiful! I love it when people smile and look into the eyes of other people. I believe that good makes the world better :)
+I rejoice every day, because life is beautiful! I love it when people smile and look into the eyes of other people. I believe that kindness makes the world better :)
 Mountains, nature, forest - after any of these words, the level of endorphins in my blood rises greatly.
 
 **Some my minds:** [поймать мгновение](https://t.me/catch_moment)
